@@ -1,0 +1,7 @@
+main: com.civuniverse.kayla.OneTimeTeleport
+version: 1.0-SNAPSHOT
+name: OneTimeTeleport
+commands:
+  ott:
+    description: Permits a one time teleport of a player.
+    usage: /ott [playername] | /ott accept/deny
